@@ -128,7 +128,7 @@ const year = prompt('Enete your year');
 // console.log(person);
 
 
-// // Question No = 1
+// // Question No = 13
 
 
 // for(let i = 0; i < 10; i++){
@@ -136,14 +136,14 @@ const year = prompt('Enete your year');
 // }
 
 
-// Question No = 2
+// Question No = 14
 
 // function multi(a,b){
 //  return a * b;
 
 // }console.log(multi(7,8));
 
-// Question No = 3
+// Question No = 15
 
 // const myName = ("ankit");
 // const lastName = ("gill");
@@ -155,12 +155,12 @@ const year = prompt('Enete your year');
 //    return Math.sqrt(a * a + b * b );
 // }console.log(square(3,4))
 
-// Question No = 5
+// Question No = 16
 
 // const fruitName = ["mango", "apple","banna"];
 // console.log(fruitName);
 
-// Question No = 6
+// Question No = 17
 
 // function leng(int){ 
 // return int.length;
@@ -171,14 +171,14 @@ const year = prompt('Enete your year');
 
 // console.log(`${lent}`)
 
-// Question No 7
+// Question No 18
 
 // const num = [1,23,3,4,5]
 // let sume = Math.min(...num)
 // console.log(sume);
 
 
-// Question No 8
+// Question No 19
 
 // function find(){
 //     let sum = 1;
@@ -190,7 +190,7 @@ const year = prompt('Enete your year');
 // }
 // find();
 
-// Question No 9
+// Question No 20
 
 // function join(s1,s2){
 // return s1 + s2;
@@ -200,7 +200,7 @@ const year = prompt('Enete your year');
 // const result = join(s1,s2);
 // console.log(result);
 
-//Question No = 10;
+//Question No = 21;
 
 // function last(arry){
 // return arry[arry.length -1];
@@ -209,11 +209,11 @@ const year = prompt('Enete your year');
 // const result = last(arry);
 // console.log(result);
 
-// Questioin No = 11;
+// Questioin No = 22;
 // const arry = ["ankit","gill",7];
 // console.log(arry);
 
-//Question No = 12
+//Question No = 23
 
 // function revers(rev){
 //   return rev.reverse();
@@ -222,7 +222,7 @@ const year = prompt('Enete your year');
 // const result = revers(rev);
 // console.log(result);
 
-//Question No = 13
+//Question No = 24
 
 // function upper(str){
 //     return str.toUpperCase();
@@ -232,7 +232,7 @@ const year = prompt('Enete your year');
 // console.log(solve);
 
 
-//Question No = 14
+//Question No = 25
 
 // function upper(str){
 //     return str.toLowerCase();
@@ -241,7 +241,7 @@ const year = prompt('Enete your year');
 // const solve = upper(...str);
 // console.log(solve);
 
-//Question No = 15
+//Question No = 26
 
 // function type(vare){
 //  return typeof vare;
@@ -250,7 +250,7 @@ const year = prompt('Enete your year');
 // const answer = type(vare);
 // console.log(answer);
 
-// Question No 16
+// Question No 27
 
 // function getCheck(get){
 //     return get.includes("");
@@ -259,14 +259,14 @@ const year = prompt('Enete your year');
 // const sum = getCheck(get);
 // console.log(sum);
 
-// Question No 17
+// Question No 28
 
 // const color = ['red','blue','green','yellow'];
 // console.log(color);
 
 
 
-// Question No 1
+// Question No 29
 
 // function first(str){
 //   return  str.charAt(0);
@@ -276,12 +276,12 @@ const year = prompt('Enete your year');
 // const result = first(str);
 // console.log(result);
 
-//Question No 2
+//Question No 30
 // const cars = ['thar','bmw','ode','bullet'];
 // cars.shift();
 // console.log(cars);
 
-//Question No 3
+//Question No 31
 
 // function empty(arr){
 //     if(arr.length === 0){
@@ -295,7 +295,7 @@ const year = prompt('Enete your year');
 // const result = empty(arr);
 // console.log(result);
 
-//Question No 4;
+//Question No 32;
 
 // function element(str){
 //    return str.join();
@@ -305,7 +305,7 @@ const year = prompt('Enete your year');
 // const result = element(str);
 // console.log(result);
 
-//Question No 5;
+//Question No 33;
 
 // function splet(word){
 //     return word.split(" ");
@@ -314,7 +314,7 @@ const year = prompt('Enete your year');
 // const result = splet(word);
 // console.log(result);
 
-// Question No 6;
+// Question No 34;
 
 // function  short(asin){
 //     return asin.sort((a,b) => a - b);
@@ -323,7 +323,7 @@ const year = prompt('Enete your year');
 // const result = short(asin);
 // console.log(result);
 
-//Question No 7;
+//Question No 35;
 // function white(space){
 //     return space.trim();
 // }
@@ -331,7 +331,7 @@ const year = prompt('Enete your year');
 // const result  = white(space);
 // console.log(result);
 
-//Question No 8;
+//Question No 36;
 
 // function shorts(dsin){
 //     return dsin.sort((a,b) => a > b ? -1 : 1);
@@ -340,7 +340,7 @@ const year = prompt('Enete your year');
 // const result = shorts(dsin);
 // console.log(result);
 
-//Question No 9;
+//Question No 37;
 
 // function date(carnt){
 //     return   new Date();
@@ -349,13 +349,13 @@ const year = prompt('Enete your year');
 // const result = date(carnt);
 // console.log(result);
 
-//Question No 10;
+//Question No 40;
 
 // const right = true;
 // const result = typeof right
 // console.log(result)
 
-//Question No 11;
+//Question No 41;
 
 // function positive(num){
 //    if(num > 0){
@@ -372,13 +372,13 @@ const year = prompt('Enete your year');
 // const result = positive(num);
 // console.log(result);
 
-//Question No 12;
+//Question No 42;
 
 // const friut = ['orange','mango','papa'];
 // const result = friut.length;
 // console.log(result);
 
-//Question No 13;
+//Question No 43;
 
 // function first(arr,n){
 //     return arr.slice(0 ,n);
@@ -388,7 +388,7 @@ const year = prompt('Enete your year');
 // const result = first(arr,n);
 // console.log(result);
 
-//Question No 14;
+//Question No 44;
 
 // const cars = {
 //     make : "india",
@@ -396,7 +396,7 @@ const year = prompt('Enete your year');
 // }
 // console.log(cars);
 
-//Question No 15;
+//Question No 45;
 
 // function swaps(a,b,c){
 //     [a,b,c] = [b,c,a];
@@ -408,12 +408,12 @@ const year = prompt('Enete your year');
 // const result = swaps(a , b ,c);
 // console.log(result);
 
-//Question No 16;
+//Question No 46;
 
 // let value;
 // console.log(value);
 
-//Question No 17;
+//Question No 47;
 
 // function value(user){
 //     return user === null;
@@ -423,13 +423,13 @@ const year = prompt('Enete your year');
 // const result = value(user2);
 // console.log(result);
 
-//Question No 18;
+//Question No 48;
 
 // const bike = ['bullet','i love my wife','i love hot girl','i love porn '];
 // console.log(bike[3]);
 
 
-//Question No 19;
+//Question No 49;
 
 // function large(lar){
 //     return Math.max.apply(null, lar);
@@ -438,12 +438,12 @@ const year = prompt('Enete your year');
 // const result = large(lar);
 // console.log(result);
 
-//Question No 20;
+//Question No 50;
 
 // let value = null;
 // console.log(value);
 
-//Question No 21;
+//Question No 51;
 
 // function factiacl(n){
 //     if(n === 0){
@@ -458,14 +458,14 @@ const year = prompt('Enete your year');
 // console.log(result);
 
 
-//Question No 21;
+//Question No 52;
 
 // const marrige = ['i love my wife','i love my girlferind','i love cars','i love school'];
 // const remove = marrige.pop();
 // console.log(remove);
 // console.log(marrige);
 
-//Question No 22;
+//Question No 53;
 
 // function rndom(){
 //     return Math.floor(Math.random() * 3 ) + 1 ;
@@ -473,7 +473,7 @@ const year = prompt('Enete your year');
 // const result = rndom();
 // console.log(result);
 
-//Question No 22;
+//Question No 54;
 
 // function nevegit(nev){
 //     if(nev < 0){
@@ -488,7 +488,7 @@ const year = prompt('Enete your year');
 // const result = nevegit(nev);
 // console.log(result);
 
-//Question No 23
+//Question No 56
 
 // function about(number){
 //     return Math.abs(number);
@@ -497,7 +497,7 @@ const year = prompt('Enete your year');
 // const result = about(number);
 // console.log(result);
 
-//Question No 24;
+//Question No 57;
 
 // const arr = [1,4];
 // let sum = 0;
@@ -508,7 +508,7 @@ const year = prompt('Enete your year');
 // }
 // console.log(+sum);
 
-//Question No 25;
+//Question No 60;
 
 // let i;
 // for( i = 0; i <= 100; i++){
@@ -521,7 +521,7 @@ const year = prompt('Enete your year');
 //    }
 // }
 
-//Question No 26;
+//Question No 61;
 
 
 // let sum = 25;
@@ -531,7 +531,190 @@ const year = prompt('Enete your year');
 // }
 // console.log("you are win ");
 
-//Question No 27;
+//Question No 62
+// function one(arr){
+// let sum = 0;
+// for(let i = 0; i < arr.length; i++){
+//       sum +=arr[i]
+   
+// }
+// return sum/arr.length;
+// }
+// const arr = [4,4,7];
+// const result = one(arr);
+// console.log(result);
+
+//Question No = 63
+
+// function sum(a,b){
+//     return a + b;
+// }
+//  const answer = sum(4,9);
+//  console.log(answer);
+
+//Question No = 64
+
+// function product(x,y){
+//     return x * y;
+// }
+
+// const answer = product(3,4);
+// console.log(answer);
+
+
+//Question No = 65
+
+// const myName = "ankitgill";
+// console.log(myName);
+
+//Question No = 66
+
+// const str = "ankit"
+// function upper(str){
+//     return str.toUpperCase();
+// }
+// console.log(upper(str));
+
+//Question No = 67
+
+// const str = "ANKITGILL"
+// function upper(str){
+//     return str.toLowerCase();
+// }
+// console.log(upper(str));
+
+
+//Question No = 68
+
+// const arr = [1,5,8,0];
+// const answer = arr[0];
+// console.log(answer);
+
+
+//Question No = 69
+
+// const arr = [1,5,8,0,7,8,9,7,6,89,0,68];
+// const answer = arr[11];
+// console.log(answer);
+
+
+//Question No = 70
+
+// function arry(str){
+//     return str[0];
+// }
+// const str = ["Ankit","payal","jatin","mohit"];
+// const result = arry(str);
+// console.log(result);
+
+//Question No = 71
+
+// function arry(str){
+//     return str[3];
+// }
+// const str = ["Ankit","payal","jatin","mohit"];
+// const result = arry(str);
+// console.log(result);
+
+//Question No = 72
+
+// const str = "ankit";
+// const answer = str.length;
+// console.log(answer);
+
+//Question No = 73
+
+// function positive(num){
+
+//     if(num > 0){
+//         console.log("Positive");
+
+//     }else{
+//         console.log("Negitive");
+//     }
+//     return num;
+// }
+
+// const num = 8;
+// const answer = positive(num);
+// console.log(answer);
+
+//Question N0 = 74
+
+// function even(num){
+//     return num % 2 === 0;
+  
+// }
+// const num = 8;
+// const answer = even(num);
+// console.log(answer);
+
+
+//Question N0 = 75
+
+//  function even(num){
+//     return num % 2 !== 0;
+  
+//  }
+// const num = 7;
+//  const answer = even(num);
+//  console.log(answer);
+
+//Question N0 = 76
+
+// const boolen = true;
+// console.log(boolen);
+
+//Question N0 = 77
+
+// const car = "thar";
+// const result = typeof car;
+// console.log(result);
+
+//Question N0 = 78
+
+// function date(time){
+//     return new Date;
+// }
+// let time;
+// const result = date(time);
+// console.log(result);
+
+//Question N0 = 79
+
+// function randm(num){
+//     return Math.floor((Math.random(num) * 10) + 1 );
+// }
+// let num;
+// const result = randm(num);
+// console.log(result);
+
+//Question N0 = 80
+
+// function number(square){
+//     return square * square;
+// }
+// const square = 5;
+// const result = number(square);
+// console.log(result);
+
+//Question N0 = 81
+
+// function join(a,b){
+//   return a + b;
+// }
+// const a = "ankit"
+// const b = "gill"
+// console.log(join(a,b));
+
+//Question N0 = 82
+
+// function absult(value){
+//     return Math.abs(value);
+// }
+// const value = -2.7;
+// const result = absult(value);
+// console.log(result);
 
 // let user = prompt("enter your full name");
 // let fullUser = "@" + user + user.length;
