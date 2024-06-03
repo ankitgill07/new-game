@@ -716,6 +716,166 @@ const year = prompt('Enete your year');
 // const result = absult(value);
 // console.log(result);
 
+//Question No = 1
+
+// const myName = "ankitgill";
+// console.log(myName);
+
+//Question No = 2
+
+// function sum(a,b){
+//     return a + b;
+// }
+// const result = sum(2,6);
+// console.log(result);
+
+//Question No = 3
+
+// const myName = "ankit";
+// const lastNmae = "gill";
+// const result = myName + " " +lastNmae;
+// console.log(result);
+
+
+//Question No = 4
+// let num = -1;
+// function isnumber(num){
+//     if(num > 0){
+//         console.log("positive");
+//     }else if( num  === 0){
+//         console.log("this is Zero");
+//     }else{
+//         console.log("negative");
+//     }
+//     return num
+// }
+// console.log(isnumber(num));
+
+//Question No 5
+
+// for(let i = 0; i  < 10; i++){
+//     console.log(i);
+// }
+
+//Question No 6 to 8
+
+// const arr = [1,2,3,4,5];
+// const asscee = arr[2];
+// const add = arr.push(6);
+// console.log(arr);
+
+//Question No 9  to 10 
+
+// const book = {
+//     title : "Atotmic Habit",
+//     author : "Jamce clear",
+//     year :  2006,
+//     getDescription: function () {
+//       return `${this.title} is a ${this.genre} novel written by ${this.author} in ${this.year}.`
+//     }
+// }
+
+// console.log(book);
+
+//Question No 11
+
+// function gree(name){
+//     return name + "gill"  ;
+// }
+// const name = "ankit"
+// console.log(gree(name));
+
+//Question No 12
+
+// function isSize(str){
+//     return str.length;
+// }
+// const str = "ankit";
+// const result = isSize(str);
+// console.log(result);
+
+//Question No 13
+
+// const num = [1,4,5,69,89,0];
+// let text = " ";
+// function print(arr){
+//     return arr.join(" ");
+// }
+// console.log(print(num));
+
+//Question No 14
+
+// function even(num){
+//   return num.filter(function(arr){
+//     return arr % 2 === 0;
+//   })
+// }
+// const number = [12,43,6,77,8,2,6];
+// const result = even(number);
+// console.log(result);
+
+//Question No 15;
+
+// switch(new Date().getDay()){
+//  case 0:
+//   day = "Sunday";
+//   break;
+//   case 1:
+//     day = "Monday";
+//     break;
+//    case 2:
+//     day = "Tuesday";
+//     break;
+//     case 3:
+//     day = "Wednesday";
+//     break;
+//     case 4:
+//     day = "Thursday";
+//     break;
+//     case 5:
+//     day = "Friday";
+//     case 6:
+//     day = "Saturday";
+//     break;
+//   default:
+//     day = "Unknown day";
+// }
+// console.log(day);
+
+
+//Question No 16
+
+// let myName = `ankit`
+// let result = `hello ${myName} welcome to web sid`
+// console.log(result);
+
+//Question No  17
+
+// function isFind(a,b){
+//    if(a === undefined){
+//     a = 2;
+//    }
+//    return a * b;
+// }
+// console.log(isFind(3,4));
+// console.log(isFind(undefined,4));
+
+
+//Question No 18
+
+// let myFunction = (a, b) => a * b;
+// console.log(myFunction(20,5));
+
+//Question No 19
+
+// function create(arr){
+//     return arr.map((value) => value -1);
+// }
+// const arr = [1,5,7,89,7];
+// const result = create(arr);
+// console.log(result);
+
+
 // let user = prompt("enter your full name");
 // let fullUser = "@" + user + user.length;
 // console.log(fullUser);
